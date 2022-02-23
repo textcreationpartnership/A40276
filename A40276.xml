@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony for God's truth first, concerning new &amp; heavenly Jerusalem, and Jerusalem from below. Secondly, concerning Christ the great mountain that fills the whole earth. Thirdly, how man and woman was created in the image of God, and to be help-meets one to another. Fourthly, how every one ought to improve the talent God gives them, to his glory, and their eternal happiness. By George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40276</idno>
+            <idno type="STC">Wing F1928</idno>
+            <idno type="STC">ESTC R215788</idno>
+            <idno type="EEBO-CITATION">99827557</idno>
+            <idno type="PROQUEST">99827557</idno>
+            <idno type="VID">31979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1847:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony for God's truth first, concerning new &amp; heavenly Jerusalem, and Jerusalem from below. Secondly, concerning Christ the great mountain that fills the whole earth. Thirdly, how man and woman was created in the image of God, and to be help-meets one to another. Fourthly, how every one ought to improve the talent God gives them, to his glory, and their eternal happiness. By George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Sowle, at the Three Keys, in Nags-Head-Court, in Grace-Church-Street, over-against the Conduit,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31979:1"/>
+            <pb n="3" facs="tcp:31979:1"/>
+            <head>A TESTIMONY FOR <hi>God's Truth,</hi> &amp;c.</head>
+            <argument>
+               <p>Concerning New and Heavenly <hi>Jeruſalem,</hi> and her Children, diſtinct from <hi>Jeruſalem</hi> which is from below, and her Chil<g ref="char:EOLhyphen"/>dren.— And that all who read this, do ſee whether <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> that is above be their Mother.</p>
+            </argument>
+            <p>THe Apoſtle writes to the Church of Chriſt, and ſaith, Jeruſalem <hi>which is above is Free, which is the Mother of us all.</hi>— All <hi>Jeruſalems</hi> Children are born of the Spirit, and led by the Spirit of God; <hi>And as many as receive Chriſt, he gives them power to become the Sons of God; even to them that believe in his Name.— And whoſoever believes that Jeſus is the Chriſt, is born of God; And they that believe in the Light, the Life in Chriſt, do become the Children of Light,</hi> as in <hi>John</hi> 1.12. and 12.36. and 1 <hi>John</hi> 5.1.</p>
+            <p>And now in this heavenly Light, Power and Spirit, they come to be heavenly <hi>Jeruſalems</hi> Children, that is from above. — For ſuch as hate the Light, and do Evil, are condemned by it, and they
+<pb n="4" facs="tcp:31979:2"/>
+that have not the Spirit of Chriſt are none of his; but all the true Chriſtians, in the new Covenant, and new Teſtament, in Chriſt Jeſus, to whom Chriſt hath given his Life, which is his Light and his Power, them that believe in it, and receive him, do become the Children of Light, and the Sons of God; ſo they are heavenly <hi>Je<g ref="char:EOLhyphen"/>ruſalems</hi> Children, born from above, of the Spirit and the Light.</p>
+            <p>The Apoſtle ſaith to the Converted <hi>Hebrews, Ye are come unto</hi> Mount Sion, <hi>unto the City of the Living God, the Heavenly</hi> Jeruſalem, <hi>and to an innumerable company of Angels, and to the general Aſſembly and Church of the Firſt Born, which is written in Heaven, and to God the Judge of all, and to the Spirits of juſt Men made perfect, and to Jeſus the Mediator of the new Covenant;</hi> and hither <hi>Jeruſalems</hi> Children were come then, while they were upon the Earth.— The Children of God, that were born of the Spirit, and the Children of the Light, they were come hither in the Apoſtles Days, they were come to that heavenly <hi>Mount-Sion,</hi> that looks over the whole World; for Natural <hi>Sion,</hi> the Watch-Tower, looked over into <hi>Canaan;</hi> but this heavenly <hi>Sion,</hi> ſpoke of in the New Teſtament, which is the Joy of the whole Earth, looks over all the Earth, and in this Joyful <hi>Sion,</hi> Chriſt the Elect and Preci<g ref="char:EOLhyphen"/>ous was laid, 1 <hi>Pet.</hi> 2.6. And Chriſt the Deliverer comes out of this <hi>Sion, Rom.</hi> 11.26. And the Children of heavenly <hi>Jeruſalem,</hi> which is the City of the Living God, they ſee the innumerable company of Angels; and is not this the City that <hi>Abraham, Iſaac</hi> and <hi>Jacob</hi> ſought for, which hath Foundations, whoſe Builder and Maker is God; is not this heavenly <hi>Jeruſalem,</hi> the City of the Living God, that they ſought for? And are not all heavenly <hi>Jeruſalems</hi> Children written in Heaven? ſeeing the Apoſtle ſaid, Jeruſalem <hi>that is above is the Mother of us all that believe in Chriſt, and receive him, and are born of the Spirit, and they were come to the General Aſſembly, the Church of the Firſt Born, written in Heaven, and to God the Judge of all, and to the Spirits of juſt Men made Perfect.</hi> All theſe were and are Born of the Spirit that comes to heavenly <hi>Sion</hi> and <hi>Jeruſalem.</hi> and to God and his Son, and to the juſt Mens Spirits made perfect; for it is the Spiritual Birth, heavenly <hi>Jeruſalems</hi> Children, that ſees theſe things and knows them; that which is born of the Fleſh is Fleſh, and may know fleſhly things, and that which is born of the Spirit is Spirit, and knows ſpiritual things.— And <hi>John</hi>
+               <pb n="5" facs="tcp:31979:2"/>
+in the <hi>Revelations,</hi> he ſaw the great holy City, new <hi>Jeruſalem,</hi> coming down from God, out of Heaven, prepared as a Bride adorned for her Husband, having the Glory of God, and her Light was like unto a precious Stone, and the City had no need of the Sun, neither of the Moon, nor of a Candle, for the Glory of God doth enlighten it, and the Lamb is the Light thereof: This heavenly <hi>Jeruſalem</hi> is and was the Mother of all them that receive Chriſt, who gives them Power to become the Sons of God, and they that believe in the Light are the Children of the Light, and walk in the Light of their Mother New <hi>Jeruſalem.</hi>— And you may read how this new <hi>Jeruſalem</hi> is garniſhed with Pearls, figuratively, and there is written on the Wall, the name of the twelve Tribes, and twelve Apoſtles, and of the Lamb; the Gates of it ſhall not be ſhut at all by Day, for there ſhall be no Night there. — So here you may ſee there is no Night here, but alwayes Day, in the holy City, New and Heavenly <hi>Jeruſalem,</hi> that is from above; all the Children of the Light, and that are born of the Spirit from above, ſee it their Mother; and the Nations of them that are ſaved ſhall walk in the Light of this City, new <hi>Jeruſalem,</hi> that is from above; and all <hi>Jeruſalems</hi> Children, that have overcome, have Right to the Tree of Life, and Drink of the Water of Life in this new and Heavenly <hi>Jeruſalem:</hi> and in this Heavenly <hi>Jeruſalem</hi> there ſhall be no more Curſe, and none that are defiled enter into it, but they that are written in the Lambs Book of Life; and he that overcomes ſaith Chriſt, <hi>I will make a Piller in the Houſe of my God, and he ſhall go no more out, and I will write upon him the Name of my God, and the name of the City of my God, New Jeruſalem, which comes down out of Heaven from my God; and I will write upon him my new Name.</hi>
+            </p>
+            <p>Here you may ſee New <hi>Jeruſalems</hi> Children, and the Name of God, and the holy City, and the Name of Chriſt written upon them, and their Fathers Name written in their Fore-heads, that they may know that they are the Children of new <hi>Jeruſalem,</hi> and of God and Chriſt, and they ſhall ſee his Face, and his Name ſhall be in their Fore heads, Rev. 22.4. and 3.12. <hi>He that hath an Ear, let him hear what the Spirit ſaith to the Churches,</hi> Heavenly <hi>Jeruſalems</hi> and <hi>Sions</hi> Children; and therefore all that are Born of the Spirit the Children of the Light, that believe in Chriſt, &amp; receive
+<pb n="4" facs="tcp:31979:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:31979:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:31979:4" rendition="simple:additions"/>
+him, their Mother is new and Heavenly <hi>Jeruſalem;</hi> and this Spiri<g ref="char:EOLhyphen"/>tuall Birth cannot own any Mother below this New and Heavenly <hi>Jeruſalem,</hi> and all Heavenly <hi>Jeruſalems</hi> New Born Babes are Nouriſhed with the ſincere Milk of the Word: and the Bond-Womans Children, that is born after the Fleſh perſecute New and Heavenly <hi>Jeruſalems</hi> Children, that are born after the Spirit; the Bond-Womans Children are in bondage, but <hi>Jeruſalems</hi> Children, which is from above, is free, who give Glory to the Lord God over all for Evermore.</p>
+            <p>So new and Heavenly <hi>Jeruſalem</hi> brings forth a new and Heavenly Generation, a ſpirirual Houſhold, Heavenly and Spiritual Ci<g ref="char:EOLhyphen"/>tizens, and a Royal Prieſt-hood, that offers up Living and Spiri<g ref="char:EOLhyphen"/>tual Sacrifices.</p>
+            <p>And in the Apoſtles Dayes, before the Apoſtacy, all the true believers and followers of Chriſt, had <hi>Jeruſalem</hi> that was above for their Mother, but ſince the Apoſtles Dayes, in the Apoſtacy the outward Chriſtians have gone into many Sects, and they have got many Mothers, and by Law they force other to them, but they that are brought out of the Night of Apoſtacy, by the Light, Power and Spirit of Chriſt Jeſus, they are come to new and Hea<g ref="char:EOLhyphen"/>venly <hi>Jeruſalem,</hi> and can own none of their Mothers, that they have ſet up ſince the Apoſtles Dayes, that are below Heavenly <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> that is free, and from above, in whom there is neither Sect nor Schiſm, Rent nor Diviſion, Conteſt nor Strife, for no unclean thing comes into it.— And the Lord ſaid, <hi>Behold, I Create New Heavens, and a New Earth, and the former ſhall not be remem<g ref="char:EOLhyphen"/>bred, nor come into mind;</hi> Iſaiah <hi>ſaw this by Propheſie, Iſa.</hi> 56.17.— And <hi>John</hi> ſaid, <hi>I ſaw a new Heaven and a new Earth, and the Firſt Earth was paſſed away, and there was no more Sea,</hi> Rev. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1. — And the Lord ſaid, <hi>Behold I Create</hi> Jeruſalem <hi>a Rejoycing and her People a Joy, and I will Rejoyce in</hi> Jeruſalem, <hi>and Joy in my People, and the Voice of Weeping and Crying ſhall be heard no more in her.</hi> Is not this Heavenly <hi>Jeruſalem</hi> that <hi>Iſaiah</hi> Propheſied of, <hi>Iſa.</hi> 65.18, 19. and is not this the Heavenly <hi>Jeruſalem</hi> that <hi>John</hi> ſaw in <hi>Revelations</hi> 21.2, 3, 4.— This new and heavenly <hi>Jeruſalem</hi> that is above, it ſhines over all the Nations, for the Nations of them that are ſaved walk in the Light of it, where it is always Day, and there is no Night there, for the Lord God and the Lamb is
+<pb n="7" facs="tcp:31979:4"/>
+the Light of it, in which Light the Nations of them that are ſaved walk.</p>
+            <p>Natural Men may know natural Sciences, and the natural Tongues, and Languages, and the natural Arts, and natural Phi<g ref="char:EOLhyphen"/>loſophy; for the natural <hi>Jews</hi> and <hi>Pilate</hi> could ſet their natural Tongues, which begun at <hi>Babel,</hi> upon Chriſt, and yet Crucifie him: And the Whore of <hi>Babylon</hi> and Confuſion, the Mother of Harlots, ſhe hath Power over the natural Tongues, that is whored from the Spirit of God; and ſo theſe natural men, with theſe natural things, that know nothing, but follow their own ſpirits, &amp; ſee not the things of God, they are fooliſhneſs to them, but God is pouring his Spirit upon all natural men, upon all Fleſh, that with his Spirit they may know the things of God, and ſerve and Worſhip him in Spirit and Truth, and know Heavenly <hi>Jeruſalem</hi> their Mother, with the Spirit that God pours upon them.— And <hi>John</hi> ſaw the Mother of Harlots Drunk with the Blood of the Saints and Martyrs of Jeſus, and their Blood was found in the Mother of Harlots, the Myſtery <hi>Babylon,</hi> the falſe Church; And were not theſe Saints Martyrs of Jeſus, and Prophets of Heavenly <hi>Jeruſalems</hi> Children, whoſe Blood was and is Found in the Mother of Harlots, the falſe Church, the Myſtery <hi>Babilon?</hi> Rev. 17.18.— He that was Born after the Fleſh, perſecuted him that was Born after the Spi<g ref="char:EOLhyphen"/>rit, even ſo it is now; and the Children of new <hi>Jeruſalem,</hi> that is above, and is your Mother, they and their Mother never perſecuted any: But the Mother of Myſtery <hi>Babylon,</hi> and of Harlots, ſhe and her Harlots were and are the perſecutors, in whom is found the Blood of the Righteous, <hi>viz. The free Born Children of Jeruſalem from above,</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>How all Nations may ſee with the Light the Life in Chriſt, him the great Mountain that fills the whole Earth.</head>
+            <p>COncerning the Stone Cut out of the Mountain without Hands, ſpoke of in <hi>Daniel</hi> 2. which did daſh to pieces the Image whoſe Head was fine Gold, which was <hi>Nebuchadnezars</hi> and the <hi>Babilonians</hi> Monarchy, and ſhould daſh to pieces the Breſt and Arms of Silver, which was the <hi>Meeds</hi> and <hi>Perſians</hi> Monar<g ref="char:EOLhyphen"/>chy,
+<pb n="8" facs="tcp:31979:5"/>
+and likewiſe it ſhould daſh to Pieces the Belley and Thighes of Braſs, which was the <hi>Grecians</hi> Monarchy, and the Legs of Iron, and his Feet part of Iron and part of Clay, which was the <hi>Romans</hi> Monarchy.</p>
+            <p>So all theſe four Monarchies were but one Image, the Head was Gold, and the Breſt and Arms Silver, and the Belley and Thighes Braſs, and his Legs Iron, and his Feet part of Iron and part of Clay, and this ſame Stone, Cut out of the Mountain, break the Image of Iron, Clay, Silver, Braſs, and Gold to pieces, and they become like unto the Chaff of the Summer Threſh<g ref="char:EOLhyphen"/>ing-floor, and the Wind carried them away, that no place was found for them; So here was the end of theſe four Mo<g ref="char:EOLhyphen"/>narchies, and the Stone that Smote the Image, became a great Mountain, and filled the whole Earth, <hi>And in the Dayes of theſe Kings</hi> (or <hi>four Monarchies) ſhall the God of Heaven ſet up a King<g ref="char:EOLhyphen"/>dom, which ſhall never be deſtroyed; and the Kingdom ſhall not be left to others, but it ſhall Conſume and Deſtroy all theſe Kingdoms, and it ſhall ſtand for ever, and of his Kingdom there ſhall be no end,</hi> Dan. 2. and Luke 1.33.</p>
+            <p>Now is not this Stone Chriſt, that becomes a great Mountain, and fills the whole Earth? and did not he come in the dayes of theſe four Monarchies, who daſhed them to pieces, and ſet up his Kingdom? and did not Chriſt ſay, when he was come, <hi>My King<g ref="char:EOLhyphen"/>dom is not of this World?</hi> and alſo did not he ſay, <hi>All Power in Heaven and Earth is given unto me?</hi>
+            </p>
+            <p>Now Chriſts Kingdom is an everlaſting Kingdom that ſhall never be Deſtroyed, but ſhall ſtand for ever, and his Kingdom ſtands in Righteouſneſs, and Power, and Peace, and Joy in the Holy Ghoſt; and Chriſt ſaid to <hi>Nicodemas, Except a Man be Born again he cannot ſee the Kingdom of God;</hi> and again he ſaith to him, <hi>Except a Man be Born again of Water, and of the Spirit, he cannot enter into the Kingdom of God,</hi> John 3. And alſo the Apoſtle ſaith, <hi>That none that is Defiled or <g ref="char:V">Ʋ</g>nclean ſhall enter into the Kingdom of God and Chriſt; and the Natural Man knowes not the things of God, they are fooliſhneſs to him.</hi>
+            </p>
+            <p>So this everlaſting Kingdom of God, which was ſet up above Six<g ref="char:EOLhyphen"/>teen Hundred years ago, which ſhall never have end, for no un<g ref="char:EOLhyphen"/>clean or defiled Perſon can enter into it, nor none can ſee it,
+<pb n="9" facs="tcp:31979:5"/>
+nor enter into it, except they be Born again of Water and of the Spirit, though this everlaſting Kingdom ſtands and remains over all, and the unclean and defiled cannot enter into it, and they that are not Born again cannot enter into it, nor ſee it, ſo they are not like to deſtroy this everlaſting Kingdom, it remains firm, and will never have an End; though the unclean and defi<g ref="char:EOLhyphen"/>led, and them that are not Born again do not ſee it, yet <hi>John</hi> ſaith in <hi>Rev.</hi> 1.9. <hi>He was in the Kingdom and Patience of Jeſus Chriſt.</hi>— And the Apoſtle told the Saints, <hi>that they were deli<g ref="char:EOLhyphen"/>vered from the power of Darkneſs, and tranſlated into the Kingdom of his dear Son;</hi> And was not this while they were upon the Earth? <hi>Col.</hi> 1.13.— So theſe were Born again; and Chriſt ſaith, <hi>The Law and the Prophets were until</hi> John, and he was the greateſt Prophet Born of a Woman. <hi>but the Leaſt in the Kingdom is grea<g ref="char:EOLhyphen"/>ter then</hi> John, and ſince <hi>John Baptiſt</hi> Preached, men Preſſed into the Kingdom, and thoſe are they that are Born again, and have the Spiritual Eye that ſee the end of the Prophets and <hi>John,</hi> that ſee Chriſts Everlaſting Spiritual Kingdom, and Preſs into it.</p>
+            <p>Now Chriſt the Stone that became the great Mountain, and fills the whole Earth, [mark the whole Earth] <hi>and none ſhall hurt nor deſtroy in my holy Mountain, ſaith the Lord,</hi> Iſa, 65.25.— And this is the Mountain of the Houſe of the Lord that is eſta<g ref="char:EOLhyphen"/>bliſhed on the top of all Mountains, and exalted above the Hills, <hi>Iſa.</hi> 2.2. <hi>Mich.</hi> 4.1.</p>
+            <p>And now Chriſt this Mountain, filling the whole Earth, you may ſay, What does it fill <hi>Aſia, Affrica, Europe,</hi> and <hi>America,</hi> and the <hi>Eaſt, Weſt, North</hi> and <hi>South?</hi> I ſay yes, Chriſt this Mountain fills the whole Earth, and he doth enlighten every one that comes into the whole World, <hi>for in him was Life, and this Life was the Light of Men,</hi> This was the true Light which enligh<g ref="char:EOLhyphen"/>tens every one that comes into the World, and that every one with this true Light, the Life in Chriſt, both in <hi>Aſia, Europe, Affrica,</hi> and <hi>America,</hi> both <hi>Eaſt, Weſt, North,</hi> and <hi>South,</hi> that is come into the World; I ſay with this Divine Light, the Life in Chriſt, they may ſee Chriſt the Mountain in their own Country, which fills the whole Earth, for the Light ſhines in their Hearts, to give the knowledg of the Glory of God in the Face of Chriſt Jeſus, <hi>John,</hi> 1.4, 9.2, <hi>Cor.</hi> 4.4.— And Chriſt ſaith, <hi>Believe in the
+<pb n="10" facs="tcp:31979:6"/>
+Light, that ye may become Children of the Light,</hi> John 12.36.— So the Light, which is the Life in Chriſt, gives the knowledg of him in all places, who is the Mountain that fills the whole Earth, for the Light is the Life in Chriſt, that great Glorious Mountain, and they that believe in the Light, the Life in Chriſt, &amp; are become Children of the Light, they ſee this Everlaſting Glorious King<g ref="char:EOLhyphen"/>dom, and enter into it, and ſo are the Children of the Kingdom of God and Chriſt.— The Lord ſaith, ſpeaking of Chriſt, <hi>I have ſet my King upon my holy Hill of</hi> Sion, <hi>or upon</hi> Sion, <hi>the Hill of my Holineſs; Ask of me, and I will give thee the</hi> Heathen <hi>for thy Inheritance, and the utmoſt parts of the Earth for thy Poſeſſion, thou ſhalt break them with a Rod of Iron, and daſh them to pieces like a Potters <g ref="char:V">Ʋ</g>eſſel; be wiſe therefore now, O ye Kings, be ye Inſtructed ye Judges of the Earth, ſerve the Lord with fear, and Rejoyce with Trembling, Kiſs the Son leaſt he be angry, and ye periſh from the way while his Wrath is kindled but a little, Bleſſed are all they that put there truſt in him.</hi>
+            </p>
+            <p>How can the Kings be wiſe, and the Judges Inſtructed, and Kiſs the Son, and keep in his way, and truſt in him, but by be<g ref="char:EOLhyphen"/>lieving in his Divine Light, which is the Life in Chriſt?— Now Chriſt with his Divine Light, doth Inherit the <hi>Heathen</hi> and poſſeſs the utmoſt Parts of the Earth, and the Wrath of the Lamb is turned againſt them that do evil, and hate the Light which is his Life, then he daſhes them to pieces, like a Potters Veſſel, and they periſh from him the way — and therefore all muſt believe in the Light, which is the Life in Chriſt, the great Mountain that filleth the whole Earth, and here, in this Moun<g ref="char:EOLhyphen"/>tain, the Lord will teach them his wayes; and ſo the knowledg of the Lord ſhall cover the Earth as the Waters covers the Sea.— Gods and Chriſts everlaſting Kingdom is over all, and from Ge<g ref="char:EOLhyphen"/>neration to Generation, and the Scepter of his Kingdom is a Righteous Scepter, and he Rules in the Kingdoms of Men: for by him Kings Rule, and Princes Decree Juſtice; and his Seed I will make endure for ever, and his Throne as the Dayes of Heaven.</p>
+            <closer>
+               <dateline>
+                  <hi>Kingſton upon Thames</hi> 
+                  <date>the 11th of the 11th Month 1687.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="11" facs="tcp:31979:6"/>
+            <head>Here you may ſee how Male and Female were Help-meets in the Goverment, when God made them in his Image of Righteouſneſs and Holineſs, and how Chriſt reſtores Man up into his Image again, and how that Male and Female are all one in him, and of the Increaſe of Chriſts Government and Peace there is no end.</head>
+            <p>GOd ſaid, <hi>Let us make Man in our Image, after our Likeneſs, and let them have Dominion over the Fiſh of the Sea, and over the Fowles of the Air, and over all the Cattle, and over every Living thing that moveth upon the Earth:</hi> ſo <hi>God Created Man in his own Image, in the Likeneſs of God Created he him, Male and Female Created he them, and Bleſſed them; and God ſaid unto them, be Fruitful and Mul<g ref="char:EOLhyphen"/>tiply and Repleniſh the Earth, and ſubdue it, and have Dominion over,</hi> &amp;c. as before, as in Gen. 1.2. Chap.</p>
+            <p>Here the Female which was the <hi>Meet-help</hi> for <hi>Adam,</hi> and they both Male and Female were <hi>Meet-helps,</hi> Joyned in Government, Do<g ref="char:EOLhyphen"/>minion and Rule, being in the likeneſs and Image of God, and they were Bleſſed in it; for God ſaid unto them [Mark, them] <hi>be Fruitful, and Multiply, and Repleniſh the Earth, Subdue it, and have Dominion over, &amp;c.</hi> And this was before Man and Woman fell from his Image: So God who made Man and Woman in his own Image, gave them an Underſtanding to underſtand what he ſaid to them.</p>
+            <p>And the Apoſtle ſaith to the <hi>Colloſſians, ſeeing ye have put off the old Man with his Deeds, and have put on the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Man which is Renewed in Knowledge, after the Image of God that Created them, where there is neither</hi> Greek <hi>nor</hi> Jew, <hi>Circumciſion, nor <g ref="char:V">Ʋ</g>ncircumciſion,</hi> Barba<g ref="char:EOLhyphen"/>rian Scythian, <hi>bond nor free, but Chriſt is all and in all,</hi> Colloſ. 3.9, 10, 11.</p>
+            <p>Now this Old Man, in <hi>Adam,</hi> in the Fall, being put off, and this New Man in the Image of God, that he made and Created them in, put on, in Righteouſneſs and Holineſs, in ſuch Chriſt is all and in all, a Ruler and a Governor, ſo that he Rules in the Male
+<pb n="21" facs="tcp:31979:7"/>
+and in the Female, in the new Man, in the Image of God, they know him to be a Ruler and Governour: <hi>Iſaiah</hi> ſaith, <hi>
+                  <g ref="char:V">Ʋ</g>nto us, a Child is Born, a Son is given, the Government ſhall be upon his Shoul<g ref="char:EOLhyphen"/>ders, and his Name ſhall be called the Wonderful Counſellor, the Mighty God, the Everlaſting Father, the Prince of Peace, of the Increaſe of his Government and Peace there ſhall be no end,</hi> &amp;c. Iſa. 9.6.7.</p>
+            <p>And the Lord ſaith, <hi>Behold, a Virgin ſhall Conceive and Bear a Son, and ſhall call his Name</hi> Emanuel, <hi>God with us,</hi> Iſa. 7.14.</p>
+            <p>And Man was drove from God, for his Sin and Tranſgreſſion, but Chriſt his Son makes an end of Sin, and finiſhes Tranſgreſſion, and Chriſt renews Man and Woman again up into the Image of God, that God had Created them in; and ſo the <hi>Emanuel,</hi> God with us, and ſo Chriſt is a Ruler and a Governor in them that have put on the New Man, that he hath renewed in the Image of God, <hi>For in Chriſt Jeſus neither Circumciſion availeth any thing, nor <g ref="char:V">Ʋ</g>ncir<g ref="char:EOLhyphen"/>cumciſion, but a new Creature,</hi> Gal. 6.16. For the Apoſtle ſaith, <hi>As many of you as have been Baptized into Chriſt, have put on Chriſt; there is neither</hi> Jew <hi>nor</hi> Greek, <hi>there is neither Bond nor Free, there is neither Male nor Famale, for they are all one in Chriſt Jeſus,</hi> Gal. 3.27, 28.</p>
+            <p>So here all are one in Chriſt, that are Baptized into the Death of Chriſt, and have put him on, and ſuch know his Rule and Govern<g ref="char:EOLhyphen"/>ment, the encreaſe of which there is no end, <hi>&amp;c.</hi>
+            </p>
+            <p>The Apoſtle ſaith to the <hi>Epheſians, For we are Gods Workmanſhip, Created in Chriſt Jeſus unto good Works, which God hath (prepared, or) ordained that we ſhould walk in them, that Chriſt may dwell in your Hearts by Faith,</hi> &amp;c. Epheſ. 3.17.</p>
+            <p>So the new Creation in Chriſt Jeſus is Gods Workmanſhip in his Image, in Righteouſneſs and Holineſs, as Man was made in the Beginning, and ſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> know Chriſt to be Ruler and Governour in Male and Female, for Chriſt who is the Bightneſs of Gods Glo<g ref="char:EOLhyphen"/>ry, and the expreſs Image of his Subſtance, who deſtroys the De<g ref="char:EOLhyphen"/>vil and his Work, renews Man and Woman up into the Image of God again, as God made them in the Beginning, and ſuch know him to be a Ruler, and a Governour, and a Councellour, and a Father; and the Work of the Apoſtles, who warned every Man and taught every Man in all Wiſdom, that they might preſent every Man perfect in Chriſt Jeſus, for in <hi>Adam</hi> in the Fall they were im<g ref="char:EOLhyphen"/>perfect,
+<pb n="13" facs="tcp:31979:7"/>
+and ſo to be Members of his Body, and the Myſtery which hath been hid from Ages and Generations, which is now made ma<g ref="char:EOLhyphen"/>nifeſt to the Saints, which is Chriſt in you the hope of Glory, <hi>Col.</hi> 1.27, 28.</p>
+            <p>And Chriſt being in his People the hope of Glory, which Hope purifies them, even as he is pure; And is not Chriſts Government upon his Shoulders in his People, and a Wonderful Councellor, and a Prince of Peace in them? as in <hi>Iſa.</hi> 9.6.</p>
+            <p>And doth not the Apoſtle ſay, God hath ſet ſome in the Church, which is the Body of Chriſt, to be helps in Government (to wit) in the Image of God, in Righteouſneſs and Holineſs, where Chriſt is Governor and Counſellor, and ſuch have put on Love and Charity which is the Bond of Perfectneſs, and the Peace of God Rules in their Hearts, by which they are called into one Body, which Chriſt is the holy Head of, Prince of Peace, Governor and Counſellor, but as there were ſuch in the Dayes of the Apſtles that were ſelf-willed, Wells without Water, and carried about with Tempeſts; that ſpeak great Swelling words of Vanity, pro<g ref="char:EOLhyphen"/>miſing themſelves Liberty, that were preſumptuous, and diſpiſed Government: And was not this the holy pure Government of Chriſt in his Male and Female, his People, his Church which they diſpiſed?</p>
+            <p>Now they that have come ſo far as a <hi>Cain</hi> and a <hi>Balaam,</hi> to hear Gods Voice, and <hi>Corah, Dathan</hi> and <hi>Abiram</hi> that came out of <hi>Egypt,</hi> and never came ſo far as to be Baptiſed into the Death of Chriſt, and to put him on, nor never came to be Created a new in Chriſt Jeſus, and to put off the old Man of <hi>Adam</hi> in the Fall, and to be renewed up again into the Image of God, in Righteouſneſs and Holineſs, that God Almighty made them in; therefore ſuch <hi>Cains, Corahs,</hi> and <hi>Balaams</hi> never came to know the Govern<g ref="char:EOLhyphen"/>ment of Chriſt in Male and Female; but preſumptuouſly Di<g ref="char:EOLhyphen"/>ſpiſed Government, as <hi>Corah, Dathan</hi> and <hi>Abiram</hi> did <hi>Moſes,</hi> and as <hi>Balaam,</hi> who went forth with <hi>Balak</hi> to Curſs <hi>Iſrael,</hi> but God Re<g ref="char:EOLhyphen"/>ſtrained him, and Reproved him for his Errour, who was Deſtroy<g ref="char:EOLhyphen"/>ed at laſt, as well as <hi>Corah, Dathan</hi> and <hi>Abiram;</hi> ſo will all they come to naught that Diſpiſe the holy Government of Chriſt in his Males and Females, and do not you think that <hi>Corah, Dathan</hi> and <hi>Abiram,</hi> and <hi>Balaam</hi> could not Speak high ſwelling Words of
+<pb n="14" facs="tcp:31979:8"/>
+Vanity, though they were Wells without Water, and Trees without Fruit, and Clouds that are carried about with a Tem<g ref="char:EOLhyphen"/>peſts, as in 2 <hi>Pet.</hi> 2. and <hi>Jude</hi> 11, 12, 13. Which ſuch preſump<g ref="char:EOLhyphen"/>tuous ones as theſe now are known by their Fruits, as it was in the Apoſtles Dayes, which Diſpiſe the Righteous Government of Chriſt in his Male and Female, but Chriſt the Beloved Seed, who bruiſes the Serpents Head, and in all his Followers, and Deſtroys the Divil and his Works, he will Raign whoſe Right it is, in them that are Baptiſed into his Death, and have put him on, and have put off the old Man in <hi>Adam</hi> in the Fall, and have put on the new Man in the Image of God, which he hath Created in Righteouſneſs and Holineſs; in ſuch Chriſt was and is a Wonderful Counſellor, and a Governor, and a Prince of Peace, the ſame to Day as he was Yeſterday, and ſo forever, in his Church, throughout all Ages, who Deſtroys the Devil and his Works, that would hinder him; ſo he will Raign, Rule and Govern, and is a Counſellor in the Hearts of his People, whoſe Right it is, Bleſſed be the Lord for<g ref="char:EOLhyphen"/>ever, Halelujah, the Lord and his Chriſt Raigns.</p>
+            <p>God ſaid, <hi>Let us make Man in our Image after our Likeneſs, and let them have Dominion,</hi> &amp;c. Gen, 1.26.</p>
+            <p>Now the Lord ſaith, <hi>Let us,</hi> and were not all things made and Created by Jeſus Chriſt, whoſe Name is called the Word of God? And doth not <hi>John</hi> ſay, <hi>There are three that bear Witneſs or Record in Heaven, the Father, the Word and the Holy Ghoſt, and theſe three are one?</hi> ſo there are three that bear witneſs and Record in Hea<g ref="char:EOLhyphen"/>ven, &amp;c. And there are three that bear Record or Witneſs in the Earth, the Spirit, the Water and the Blood, and theſe three agree in one; and is it not the Spirit, of God that Mortifies the Deeds of the Fleſh, and the Water of the Word that waſhes, and the Blood of Chriſt that cleanſeth? are not theſe three that bear Wit<g ref="char:EOLhyphen"/>neſs for God in the Earth, for Man or againſt Man? Are they not Gods Witneſſes in the Earth? And the Lord ſaith, <hi>Out of the Mouth of two or three Witneſſes (Namely Men Witneſſes) Every Word is Eſtabliſhed among Men, but the Witneſs of God is greater than the Witneſs of Men, he that hath an Ear, let him <g ref="char:V">Ʋ</g>nderſtand theſe things,</hi> 1 John 5.7, 8.</p>
+            <closer>
+               <dateline>
+                  <hi>Kingſton upon Thames,</hi>
+                  <date>the 7th of the 10th Month 1687</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="15" facs="tcp:31979:8"/>
+            <head>Here you may ſee how every one is to Improve their Ta<g ref="char:EOLhyphen"/>lents which Chriſt gives them, if not, it will be taken from them, and they caſt into utter Darkneſs.</head>
+            <p>CHriſt Jeſus ſaith, <hi>The Kingdom of Heaven is as a Man travelling into a far Country to receive for himſelf a Kingdom, and to Re<g ref="char:EOLhyphen"/>turn, who called his own Servants, and Delivered them his Goods, and to one he gave Five Talents, and to another Two, and to another One, and to every one according to his ſeveral Ability, &amp;c.</hi> Mat. 25. Luke 19.12. <hi>And after a long time the Lord of thoſe Servants comes, and reckoneth with them; and he that had Five Talents, had gained Five more; and he that had two Talents, had gained two more; and the Lord commended theſe Servants, and ſaid, Well done Good and Faithful Ser<g ref="char:EOLhyphen"/>vants, Enter into the Joy of your Lord; but he that had received the One Talent, went and Digged in the Earth, and hid his Lords Money; the Lord ſaid, Take it from him, and give it to him that hath Ten, and Caſt the <g ref="char:V">Ʋ</g>nprofitable Servants into utter Darkneſs, and there ſhall be Weep<g ref="char:EOLhyphen"/>ing and Gnaſhing of Teeth.</hi>
+            </p>
+            <p>Now theſe Talents that were given to the Lords Servants, and to every one according to their ſeveral Abilities, was the Lords Heavenly Treaſure, and was not their own, but the Lords, and they were, and are to Improve this Heavenly Treaſure for the Lord, and to put it forth, and to gain with it for the Lord at his appearing to them, when he calls them to an account, that it may be ſaid, <hi>Well done Good and Faithful Servant, enter into the Joy of the Lord,</hi> but the Wicked and Slothful ſervant (he is called a ſervant too) hideth the Lords Talent in his Earthly Napkin, and did not Improve the Lords Heavenly Treaſure; and therefore he was caſt into utter Darkneſs; and therefore all are to conſider, whom the Lord hath given more or leſs of his Heavenly Treaſure to, how you do, and how you have put the Lords Heavenly Treaſure forth, and have Improved it; I ſay the Heavenly Treaſure which you have from the Lord Jeſus Chriſt, who Spoke this before he was Crucified, and after he was Riſen did not he go to the Father
+<pb n="16" facs="tcp:31979:9"/>
+to Receive a Kingdom, who ſaid, <hi>All Power in Heaven and Earth is given to me,</hi> therefore the Lords Money or Treaſure of Talents ought to be Improved, and put to the Exchangers, that he may Receive it with Uſury and Advantage; ſo here are Exchangers of the Heavenly Talents or Treaſure of the Lord, the increaſing of them to Advantage for the Lord, as there is outward Bankers and Exchangers and Uſuries, where they do put forth their out<g ref="char:EOLhyphen"/>ward Money for gain and Profit to themſelves; but this is a Parable that Chriſt Speaks concerning Improving of his Heavenly Trea<g ref="char:EOLhyphen"/>ſure of Talents, which every one is to Improve or Increaſe that Heavenly Talent, or Meaſure which they have Received from the Lord, as good and Faithful Servants, and Stewards, if that they do intend to enter into the Joy of the Lord.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>THE END</trailer>
+      </body>
+   </text>
+</TEI>
